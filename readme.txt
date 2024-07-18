@@ -1,4 +1,4 @@
 readme.txt
-This is a text docukent of learn git.
-Git is a version control system.
+This is a text document of learn git.
+Git is a distributed version control system.
 Git is free software.
